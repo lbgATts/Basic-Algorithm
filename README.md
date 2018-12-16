@@ -1,1 +1,1 @@
- Em, a test snippet of algorithm codes
+ Em, a set of algorithm codes
